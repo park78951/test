@@ -1,3 +1,7 @@
+/**
+ * @jest-environment jsdom
+ */
+
 // __tests__/index.test.jsx
 
 import { render, screen } from "@testing-library/react";
